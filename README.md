@@ -1,4 +1,4 @@
-<center>## 🔥 Greetings, CodeRockers! 🔥</center>
+## 🔥 Greetings, CodeRockers! 🔥
 
 Here's Juan Esteban Ortiz, a 21-year-old Data Analyst and Junior Developer, blending code and music with passion! 💻🎸
 
